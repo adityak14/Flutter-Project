@@ -7,7 +7,7 @@
 build/
 
 .flutter-plugins
-Flutter-Instagram-UI-Clone.iml
+first_app.iml
 pubspec.lock
 .gradle/4.9/fileChanges/last-build.bin
 .gradle/4.9/fileHashes/fileHashes.bin
